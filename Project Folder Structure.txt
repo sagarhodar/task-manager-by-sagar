@@ -1,0 +1,29 @@
+C:\SAGAR\CODING\VITE\TODO\todo-app
+├── .gitignore
+├── Project Folder Structure.txt
+├── README.md
+├── eslint.config.js
+├── generate_structure.py
+├── index.html
+├── package.json
+├── postcss.config.js
+├── public/
+│   ├── icons/
+│   │   ├── 192x192.png
+│   │   └── 512x512.png
+│   ├── manifest.json
+│   ├── service-worker.js
+│   └── vite.svg
+├── src/
+│   ├── App.css
+│   ├── App.jsx
+│   ├── assets/
+│   │   └── react.svg
+│   ├── firebaseConfig.js
+│   ├── index.css
+│   ├── index.css.backup
+│   ├── index.zip
+│   └── main.jsx
+├── tailwind.config.js
+├── todo.zip
+└── vite.config.js
